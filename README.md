@@ -1,4 +1,4 @@
-# Kumarasakti
+# Bintang Kumarasakti
 
 **DevOps engineer.** I work on the infrastructure side of things — mostly Terraform, Kubernetes, and the CI/CD pipelines that get a commit into production.
 
