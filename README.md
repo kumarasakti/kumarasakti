@@ -1,12 +1,29 @@
-# Kumarasakti
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=devops+engineer;terraform+kubernetes+cicd;still+learning+every+day;happy+to+chat" alt="DevOps engineer — Terraform, Kubernetes, CI/CD — still learning every day — happy to chat" />
+</p>
 
-**DevOps engineer.** I work on the infrastructure side of things — Terraform, Kubernetes, and the pipelines that take a commit to production.
+I work on the infrastructure side of things — Terraform, Kubernetes, and the pipelines that take a commit to production.
 
 I like systems that are simple, boring, and easy to reason about. Still learning something new most weeks.
 
 Always happy to swap notes on infrastructure, automation, or CI/CD — feel free to say hi.
 
 ---
+### <samp>$ cat stack.yaml</samp>
+
+```yaml
+# kumarasakti — about
+role: devops engineer
+
+stack:
+  infra:         [terraform, pulumi]
+  runtime:       [kubernetes, docker, helm]
+  delivery:      [github-actions, gitlab ci/cd, argocd, fluxcd]
+  observability: [prometheus, grafana, loki]
+
+shell:  bash + zsh
+uptime: since first `docker run`
+```
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=devops+engineer;terraform+kubernetes+cicd;still+learning+every+day;happy+to+chat" alt="DevOps engineer — Terraform, Kubernetes, CI/CD — still learning every day — happy to chat" />
@@ -65,7 +82,7 @@ commit 0000001
   <a href="https://github.com/kumarasakti"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/kumarasakti"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/_Kumarasakti"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:kumarasakti@users.noreply.github.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:binsakti@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
