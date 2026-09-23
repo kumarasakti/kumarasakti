@@ -2,33 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=devops+engineer;terraform+kubernetes+cicd;still+learning+every+day;happy+to+chat" alt="DevOps engineer — Terraform, Kubernetes, CI/CD — still learning every day — happy to chat" />
 </p>
 
-I work on the infrastructure side of things — Terraform, Kubernetes, and the pipelines that take a commit to production.
-
-I like systems that are simple, boring, and easy to reason about. Still learning something new most weeks.
-
-Always happy to swap notes on infrastructure, automation, or CI/CD — feel free to say hi.
-
----
-### <samp>$ cat stack.yaml</samp>
-
-```yaml
-# kumarasakti — about
-role: devops engineer
-
-stack:
-  infra:         [terraform, pulumi]
-  runtime:       [kubernetes, docker, helm]
-  delivery:      [github-actions, gitlab ci/cd, argocd, fluxcd]
-  observability: [prometheus, grafana, loki]
-
-shell:  bash + zsh
-uptime: since first `docker run`
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=devops+engineer;terraform+kubernetes+cicd;still+learning+every+day;happy+to+chat" alt="DevOps engineer — Terraform, Kubernetes, CI/CD — still learning every day — happy to chat" />
-</p>
-
 ### <samp>$ cat stack.yaml</samp>
 
 ```yaml
