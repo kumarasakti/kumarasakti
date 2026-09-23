@@ -25,6 +25,33 @@ shell:  bash + zsh
 uptime: since first `docker run`
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=devops+engineer;terraform+kubernetes+cicd;still+learning+every+day;happy+to+chat" alt="DevOps engineer — Terraform, Kubernetes, CI/CD — still learning every day — happy to chat" />
+</p>
+
+### <samp>$ cat stack.yaml</samp>
+
+```yaml
+# kumarasakti — about
+role: devops engineer
+
+stack:
+  infra:         [terraform, packer]
+  runtime:       [kubernetes, docker, helm]
+  delivery:      [github-actions, argocd]
+  observability: [prometheus, grafana, loki]
+
+certifications:
+  - CKA — Certified Kubernetes Administrator (Sept 2026)
+
+shell:  bash + zsh
+uptime: since first `docker run`
+```
+
+<p align="center">
+  <a href="https://www.credly.com/badges/226fb9e8-eb42-40f3-8fda-f8f0c6a7dbf1"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator issued by The Linux Foundation" width="110" /></a>
+</p>
+
 ### <samp>$ git log --author="kumarasakti"</samp>
 
 ```
